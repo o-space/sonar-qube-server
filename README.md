@@ -1,2 +1,1 @@
-# sonar-qube-server
-SonarQube as Code
+## SonarQube As Code
